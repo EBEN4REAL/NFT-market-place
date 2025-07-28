@@ -136,6 +136,17 @@ This will stop the indexer, remove the volume, and restart it.
 - Address Compliance: Integrated with Circle's compliance API to screen addresses
 - Wallet Integration: Connect with MetaMask, Rainbow, and other wallets via WalletConnect
 
+# Screenshots of the NFT marketplace
+<img width="1280" height="613" alt="image" src="https://github.com/user-attachments/assets/657b3f5a-1e8d-4a3a-8682-39e2b6774a5a" />
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/838298d5-e1d0-42d5-8408-abab2358d390" />
+
+<img width="1280" height="761" alt="image" src="https://github.com/user-attachments/assets/8258738e-cecc-4818-ba5d-005501984d1c" />
+
+<img width="1280" height="613" alt="image" src="https://github.com/user-attachments/assets/21ef6b58-90d0-42e7-97bd-ace0e8e5ebc6" />
+
+
+
 # Addresses for testing
 
 - usdc: "0x5FbDB2315678afecb367f032d93F642f64180aa3"
