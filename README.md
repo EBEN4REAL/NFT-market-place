@@ -143,7 +143,6 @@ This will stop the indexer, remove the volume, and restart it.
 
 <img width="1280" height="761" alt="image" src="https://github.com/user-attachments/assets/8258738e-cecc-4818-ba5d-005501984d1c" />
 
-<img width="1280" height="613" alt="image" src="https://github.com/user-attachments/assets/21ef6b58-90d0-42e7-97bd-ace0e8e5ebc6" />
 
 
 
